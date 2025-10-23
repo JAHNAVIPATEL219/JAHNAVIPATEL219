@@ -13,6 +13,8 @@
 - 🏆 **1st Place Winner** – Ideathon at **IIT Hyderabad**   
 - ☁️ **Microsoft Certified: Azure AI Fundamentals** & **Google Cloud Certified (2025)**  
 
+🎨 **Portfolio:** [Visit My Portfolio](https://jahnavi-ai-canvas.lovable.app)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -29,13 +31,14 @@
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
+
 ---
 
 ### 💼 Projects
 #### 🔗 [ConnectIQ](https://github.com/JAHNAVIPATEL219)  
 **Tech:** Flask, SQLAlchemy, JS, HTML, CSS  
 
-#### 💼 Studentrade 
+#### 💼 Studentrade  
 **Tech:** Python, Flask, HTML, CSS  
 
 ---
@@ -76,3 +79,4 @@
 ---
 
 ⭐ *“Code. Create. Connect. Repeat.”*
+
