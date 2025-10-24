@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Jahnavi Chinthanippula</h1>
 
 <p align="center">
-🎓 3rd Year Information Technology Student | 💻 Frontend Developer | ☁️ Cloud & AI Enthusiast  
+🎓3rd Year Information Technology Student | 💻 Frontend Developer | ☁️ Cloud & AI Enthusiast  
 </p>
 
 ---
