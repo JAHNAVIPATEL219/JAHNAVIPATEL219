@@ -78,5 +78,4 @@
 
 ---
 
-⭐ *“Code. Create. Connect. Repeat.”*   after about me place my portoflio linkhttps://jahnavi-ai-canvas.lovable.app
-ChatGPT
+                                ⭐ *“Code. Create. Connect. Repeat.”*  
