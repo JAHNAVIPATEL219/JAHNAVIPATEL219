@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Jahnavi Chinthanippula</h1>
 
 <p align="center">
-🎓3rd Year Information Technology Student | 💻 Frontend Developer | ☁️ Cloud & AI Enthusiast  
+  🎓 3rd Year Information Technology Student | 💻 Frontend Developer | ☁️ Cloud & AI Enthusiast  
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ### 💼 Projects
 #### 🔗 [ConnectIQ](https://github.com/JAHNAVIPATEL219)  
-**Tech:** Flask, SQLAlchemy, JS, HTML, CSS  
+**Tech:** Flask, SQLAlchemy, JavaScript, HTML, CSS  
 
 #### 💼 Studentrade  
 **Tech:** Python, Flask, HTML, CSS  
@@ -60,22 +60,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAHNAVIPATEL219&show_icons=true&theme=radical" alt="Jahnavi's GitHub stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAHNAVIPATEL219&theme=radical" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=JAHNAVIPATEL219&theme=radical" width="50%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAHNAVIPATEL219&layout=compact&theme=radical" width="45%"/>
-</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JAHNAVIPATEL219&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+  ⭐ <em>“Code. Create. Connect. Repeat.”</em> ⭐
 </p>
-
----
-
-                                ⭐ *“Code. Create. Connect. Repeat.”*  
